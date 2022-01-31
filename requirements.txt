@@ -2,4 +2,4 @@ catboost==1.0.4
 pandas==1.4.0
 shap==0.40.0
 streamlit==1.4.0
-streamlit_shap==0.0.1
+git+https://github.com/snehankekre/streamlit-shap.git
