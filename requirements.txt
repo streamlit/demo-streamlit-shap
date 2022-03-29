@@ -3,3 +3,5 @@ pandas==1.4.0
 shap==0.40.0
 streamlit==1.7.0
 streamlit-shap==1.0.1
+
+click==8 
