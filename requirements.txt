@@ -1,5 +1,5 @@
 catboost==1.0.4
 pandas==1.4.0
 shap==0.40.0
-streamlit==1.8.1
+streamlit==1.11.1
 streamlit-shap==1.0.1
